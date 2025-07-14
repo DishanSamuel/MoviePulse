@@ -1,6 +1,6 @@
 # 🎬 MoviePulseing
 
-**MoviePulse** is a modern web application that dynamically displays the most searched movies on the platform. It uses real-time user activity to rank trending movies, giving you insight into what's currently popular based on actual interest.
+**MoviePulseing** is a modern web application that dynamically displays the most searched movies on the platform. It uses real-time user activity to rank trending movies, giving you insight into what's currently popular based on actual interest.
 
 <!-- ![MoviePulse Banner](https://your-image-link-if-any.com) -->
 
