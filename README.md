@@ -32,7 +32,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/moviepulse.git
+https://github.com/DishanSamuel/MoviePulseing.git
 cd moviepulse
 ```
 
@@ -54,7 +54,6 @@ Create a `.env` file in the root folder and add:
 
 ```env
 VITE_TMDB_API_KEY=your_tmdb_key
-VITE_APPWRITE_ENDPOINT=https://your-appwrite-url/v1
 VITE_APPWRITE_PROJECT=your_project_id
 VITE_APPWRITE_DATABASE=your_database_id
 VITE_APPWRITE_COLLECTION=your_collection_id
@@ -73,7 +72,8 @@ Open your browser and visit: `http://localhost:5173`
 
 ## 📸 Demo
 
-![Uploading image.png…]()
+<img width="1920" height="861" alt="image" src="https://github.com/user-attachments/assets/4404fd3d-e6eb-4e86-8b0e-eeb774fafdde" />
+
 
 
 ---
