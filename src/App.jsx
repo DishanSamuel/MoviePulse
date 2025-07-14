@@ -6,6 +6,7 @@ import Loading from './components/Loading';
 import MovieCard from './components/MovieCard';
 import { useDebounce } from 'react-use';
 import { getTrendingMovies, updateSearchcount } from './appwrite';
+import Footer from './components/Footer';
 
 const TMDB_BASE_API_URL = 'https://api.themoviedb.org/3';
 const TMDB_API_KEY = import.meta.env.VITE_TMDB_API_KEY;
@@ -125,6 +126,8 @@ const App = () => {
           )}
 
         </section>
+
+        <Footer />
       </div>
     </main>
   )
